@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="140" viewBox="0 0 140 140">
+  <defs>
+    <clipPath id="clip-Software">
+      <rect width="140" height="140"/>
+    </clipPath>
+  </defs>
+  <g id="Software" clip-path="url(#clip-Software)">
+    <rect width="140" height="140" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="118" height="34" rx="10" transform="translate(11 95)" fill="#1a1717"/>
+    <path id="Subtraction_9" data-name="Subtraction 9" d="M-311,79H-411a9.01,9.01,0,0,1-9-9V9a9.01,9.01,0,0,1,9-9h100a9.01,9.01,0,0,1,9,9V70A9.01,9.01,0,0,1-311,79ZM-411,9V71h100V9Z" transform="translate(431 11)" fill="#1a1717"/>
+    <text id="def_f_x_:_" data-name="def f(x):
+" transform="translate(70 58)" fill="#1a1717" font-size="24" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="-45.141" y="0">def f(x):</tspan><tspan x="0" y="28"></tspan></text>
+  </g>
+</svg>

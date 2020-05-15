@@ -1,0 +1,31 @@
+[
+  {
+    "title" : "PhD",
+    "description" : "Analysing the Performance of Machine Learning Algorithms for Bio-aerosol Detection",
+    "location" : "University of Manchester",
+    "year_start" : 2015,
+    "year_end" : 2019,
+    "content" : "Some content"
+  },
+  {
+    "title":"BSc",
+    "description":"Mathematics",
+    "location" : "University of Manchester",
+    "year_start" : 2012,
+    "year_end" : 2015,
+    "grade":"First Class"
+  },
+  {
+    "title":"A-Level",
+    "location": "Birmingham Metropolitan College : Sutton Coldfield",
+    "year_start" : 2010,
+    "year_end" : 2012,
+    "content":"a-level.html"
+  },
+  {
+    "title":"GCSE",
+    "location" : "Grace Academy : Solihull",
+    "year_start":2008,
+    "year_end":2010
+  }
+]
